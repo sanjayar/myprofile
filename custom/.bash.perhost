@@ -1,0 +1,6 @@
+case $(hostname) in 
+Sanjayas-MBP*) SRHOSTICON="🐧 ";;
+srajapatirana-dev7) SRHOSTICON="🐸 ";;
+circonusdev4) SRHOSTICON="💊 ";;
+*) SRHOSTICON="🐝 ";;
+esac

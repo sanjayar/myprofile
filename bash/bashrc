@@ -1,0 +1,2 @@
+[ -f ~/.bash.perhost ] && source ~/.bash.perhost
+source ~/.bash_prompt.sh
